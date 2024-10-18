@@ -1,0 +1,30 @@
+	body{
+	margin: 0;
+	background-color: black;
+	}
+
+	.principal-div{
+	background-color: white;
+	width: 40%;
+	min-height: 20vh;
+	height: auto;
+	margin-left: 35%;
+	margin-top: 8%;
+	border-radius: 22px;
+	}
+
+	.title{
+	padding-top: 10%;
+	margin-left: 5%;
+	}
+
+	.components-div{
+	margin-top: 3%;
+	height: 20px;
+	}
+
+	.input{
+	width: 250px;
+	height: 15px;
+	margin-left: 5%;
+	}
